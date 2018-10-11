@@ -1,0 +1,18 @@
+C:\Users\Keane\AppData\Local\Temporary Projects\Printer Enum Project\bin\Debug\Printer Enum Project.exe
+C:\Users\Keane\AppData\Local\Temporary Projects\Printer Enum Project\bin\Debug\Printer Enum Project.pdb
+C:\Users\Keane\AppData\Local\Temporary Projects\Printer Enum Project\bin\Debug\Printer Enum Project.xml
+C:\Users\Keane\AppData\Local\Temporary Projects\Printer Enum Project\obj\x86\Debug\Printer_Enum_Project.printerEnumForm.resources
+C:\Users\Keane\AppData\Local\Temporary Projects\Printer Enum Project\obj\x86\Debug\Printer_Enum_Project.Resources.resources
+C:\Users\Keane\AppData\Local\Temporary Projects\Printer Enum Project\obj\x86\Debug\Printer Enum Project.vbproj.GenerateResource.Cache
+C:\Users\Keane\AppData\Local\Temporary Projects\Printer Enum Project\obj\x86\Debug\Printer Enum Project.exe
+C:\Users\Keane\AppData\Local\Temporary Projects\Printer Enum Project\obj\x86\Debug\Printer Enum Project.xml
+C:\Users\Keane\AppData\Local\Temporary Projects\Printer Enum Project\obj\x86\Debug\Printer Enum Project.pdb
+f:\os user folders\my documents\visual studio 2010\Projects\Printer Enum Project\Printer Enum Project\bin\Debug\Printer Enum Project.exe
+f:\os user folders\my documents\visual studio 2010\Projects\Printer Enum Project\Printer Enum Project\bin\Debug\Printer Enum Project.pdb
+f:\os user folders\my documents\visual studio 2010\Projects\Printer Enum Project\Printer Enum Project\bin\Debug\Printer Enum Project.xml
+f:\os user folders\my documents\visual studio 2010\Projects\Printer Enum Project\Printer Enum Project\obj\x86\Debug\Printer_Enum_Project.printerEnumForm.resources
+f:\os user folders\my documents\visual studio 2010\Projects\Printer Enum Project\Printer Enum Project\obj\x86\Debug\Printer_Enum_Project.Resources.resources
+f:\os user folders\my documents\visual studio 2010\Projects\Printer Enum Project\Printer Enum Project\obj\x86\Debug\Printer Enum Project.vbproj.GenerateResource.Cache
+f:\os user folders\my documents\visual studio 2010\Projects\Printer Enum Project\Printer Enum Project\obj\x86\Debug\Printer Enum Project.exe
+f:\os user folders\my documents\visual studio 2010\Projects\Printer Enum Project\Printer Enum Project\obj\x86\Debug\Printer Enum Project.xml
+f:\os user folders\my documents\visual studio 2010\Projects\Printer Enum Project\Printer Enum Project\obj\x86\Debug\Printer Enum Project.pdb

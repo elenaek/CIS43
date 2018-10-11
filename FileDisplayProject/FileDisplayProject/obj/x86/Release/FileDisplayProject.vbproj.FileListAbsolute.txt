@@ -1,0 +1,14 @@
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\bin\Release\FileDisplayProject.exe
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\bin\Release\FileDisplayProject.pdb
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\bin\Release\FileDisplayProject.xml
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\obj\x86\Release\FileDisplayProject.frmFileDisplay.resources
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\obj\x86\Release\FileDisplayProject.Resources.resources
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\obj\x86\Release\FileDisplayProject.exe
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\obj\x86\Release\FileDisplayProject.xml
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\obj\x86\Release\FileDisplayProject.pdb
+f:\os user folders\my documents\visual studio 2010\Projects\FileDisplayProject\FileDisplayProject\obj\x86\Release\FileDisplayProject.exe
+f:\os user folders\my documents\visual studio 2010\Projects\FileDisplayProject\FileDisplayProject\obj\x86\Release\FileDisplayProject.xml
+f:\os user folders\my documents\visual studio 2010\Projects\FileDisplayProject\FileDisplayProject\obj\x86\Release\FileDisplayProject.pdb

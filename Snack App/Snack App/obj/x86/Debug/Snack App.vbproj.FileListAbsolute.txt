@@ -1,0 +1,11 @@
+F:\OS User Folders\My Documents\Visual Studio 2010\Projects\Snack App\Snack App\bin\Debug\Snack App.exe
+F:\OS User Folders\My Documents\Visual Studio 2010\Projects\Snack App\Snack App\bin\Debug\Snack App.pdb
+F:\OS User Folders\My Documents\Visual Studio 2010\Projects\Snack App\Snack App\bin\Debug\Snack App.xml
+F:\OS User Folders\My Documents\Visual Studio 2010\Projects\Snack App\Snack App\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\OS User Folders\My Documents\Visual Studio 2010\Projects\Snack App\Snack App\obj\x86\Debug\WindowsApplication1.frmSnackChooser.resources
+F:\OS User Folders\My Documents\Visual Studio 2010\Projects\Snack App\Snack App\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\OS User Folders\My Documents\Visual Studio 2010\Projects\Snack App\Snack App\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\OS User Folders\My Documents\Visual Studio 2010\Projects\Snack App\Snack App\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\OS User Folders\My Documents\Visual Studio 2010\Projects\Snack App\Snack App\obj\x86\Debug\Snack App.exe
+F:\OS User Folders\My Documents\Visual Studio 2010\Projects\Snack App\Snack App\obj\x86\Debug\Snack App.xml
+F:\OS User Folders\My Documents\Visual Studio 2010\Projects\Snack App\Snack App\obj\x86\Debug\Snack App.pdb

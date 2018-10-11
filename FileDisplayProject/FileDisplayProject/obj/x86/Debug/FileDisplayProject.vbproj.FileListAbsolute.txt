@@ -1,0 +1,11 @@
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\obj\x86\Debug\FileDisplayProject.frmFileDisplay.resources
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\obj\x86\Debug\FileDisplayProject.Resources.resources
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\bin\Debug\FileDisplayProject.exe
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\bin\Debug\FileDisplayProject.pdb
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\bin\Debug\FileDisplayProject.xml
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\obj\x86\Debug\FileDisplayProject.exe
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\obj\x86\Debug\FileDisplayProject.xml
+C:\Users\Keane\AppData\Local\Temporary Projects\FileDisplayProject\obj\x86\Debug\FileDisplayProject.pdb

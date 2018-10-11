@@ -1,0 +1,11 @@
+C:\Users\Keane\AppData\Local\Temporary Projects\randomsentences\bin\Release\randomsentences.exe
+C:\Users\Keane\AppData\Local\Temporary Projects\randomsentences\bin\Release\randomsentences.pdb
+C:\Users\Keane\AppData\Local\Temporary Projects\randomsentences\bin\Release\randomsentences.xml
+C:\Users\Keane\AppData\Local\Temporary Projects\randomsentences\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Keane\AppData\Local\Temporary Projects\randomsentences\obj\x86\Release\randomsentences.frmRandomSentences.resources
+C:\Users\Keane\AppData\Local\Temporary Projects\randomsentences\obj\x86\Release\randomsentences.Resources.resources
+C:\Users\Keane\AppData\Local\Temporary Projects\randomsentences\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Keane\AppData\Local\Temporary Projects\randomsentences\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Keane\AppData\Local\Temporary Projects\randomsentences\obj\x86\Release\randomsentences.exe
+C:\Users\Keane\AppData\Local\Temporary Projects\randomsentences\obj\x86\Release\randomsentences.xml
+C:\Users\Keane\AppData\Local\Temporary Projects\randomsentences\obj\x86\Release\randomsentences.pdb
